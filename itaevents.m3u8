@@ -2675,6 +2675,18 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="ARCA Menards Series Southern Illinois 100 - ARCA Menards Series Southern Illinois 100" tvg-name="01:30 ARCA Menards Series Southern Illinois 100 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-39.php
 
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-171.php
+
 #EXTINF:-1 tvg-id="European League of Football - Munich Ravens vs Stuttgart Surge" tvg-name="15:00 European League of Football : Munich Ravens vs Stuttgart Surge - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Polsat Sport Fight Poland
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-110.php
 
