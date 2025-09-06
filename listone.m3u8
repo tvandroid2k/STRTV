@@ -183,6 +183,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La 7 (2)" tvg-logo="" group-title="Altro",LA 7 (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/7755300630832713e7adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La 7 D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la7d-it.png" group-title="Altro",LA 7 D (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/881846038948178d71a68&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="mediaset1.it" tvg-name="Mediaset 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -192,11 +195,8 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="mediasetinfinity+1.it" tvg-name="Mediaset Infinity+ 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 1 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetinfinity+5.it" tvg-name="Mediaset Infinity+ 5" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 5 (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/588488827b855babc9df4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+#EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Mediaset Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Intrattenimento;Mediaset",MEDIASET IRIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -214,9 +214,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/179844839442a5ed454fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/national-geographic-wild-it.png" group-title="Documentari;Sky",NAT GEO WILD (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3428501495a9ec2ff7bc8e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="nationalgeographicwild.it" tvg-name="Nat Geo Wild (2)" tvg-logo="" group-title="Documentari;Sky",NAT GEO WILD (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3229664409bbe85d51bba2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
@@ -429,9 +426,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skydocumentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-documentaries-it.png" group-title="Sky",SKY DOCUMENTARIES (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/46428198113d67e3a4e0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skynature.it" tvg-name="Sky Nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-nature-it.png" group-title="Documentari;Sky",SKY NATURE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3810188456875f4898bef2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -537,23 +531,32 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/729945219d6146597896a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1664,6 +1667,9 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//timlivetu0
 # Playlist generata da SkyStreaming
 #EXTINF:-1 tvg-id="AMA Supercross Championship Concord - AMA Supercross Championship Concord" tvg-name="15:30 AMA Supercross Championship Concord - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="Ice Cage Fighting - ICF 5" tvg-name="16:00 Ice Cage Fighting : ICF 5 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Event
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-5000.php
 
 #EXTINF:-1 tvg-id="TNT - Supreme Extreme 2022" tvg-name="17:00 TNT: Supreme Extreme 2022 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-172.php
@@ -3429,6 +3435,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-54.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", FOXNY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-768.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Deportes
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-643.php
 
@@ -3468,8 +3477,59 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Central Michigan at Pittsburgh" tvg-name="18:00 NCAA FBS : Central Michigan at Pittsburgh - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - UConn at Syracuse" tvg-name="18:00 NCAA FBS : UConn at Syracuse - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Sacred Heart at Lehigh" tvg-name="18:00 NCAA FBS : Sacred Heart at Lehigh - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Thomas More at Dayton" tvg-name="18:00 NCAA FBS : Thomas More at Dayton - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lincoln (PA) at Duquesne" tvg-name="18:00 NCAA FBS : Lincoln (PA) at Duquesne - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-177.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Utah State at Texas A&M" tvg-name="18:45 NCAA FBS : Utah State at Texas A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-385.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Wagner at Georgetown" tvg-name="19:00 NCAA FBS : Wagner at Georgetown - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lafayette at Stonehill" tvg-name="19:00 NCAA FBS : Lafayette at Stonehill - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Truman State at Butler" tvg-name="19:00 NCAA FBS : Truman State at Butler - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Eastern Illinois at Indiana State" tvg-name="19:00 NCAA FBS : Eastern Illinois at Indiana State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bucknell at Marist" tvg-name="19:00 NCAA FBS : Bucknell at Marist - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UAlbany at Delaware State" tvg-name="19:00 NCAA FBS : UAlbany at Delaware State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Western Carolina at Wake Forest" tvg-name="20:00 NCAA FBS : Western Carolina at Wake Forest - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Howard at Temple" tvg-name="20:00 NCAA FBS : Howard at Temple - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Presbyterian at Furman" tvg-name="20:00 NCAA FBS : Presbyterian at Furman - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Robert Morris at Youngstown State" tvg-name="20:00 NCAA FBS : Robert Morris at Youngstown State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Chattanooga at Tennessee Tech" tvg-name="20:30 NCAA FBS : Chattanooga at Tennessee Tech - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UAlbany at Delaware State" tvg-name="20:30 NCAA FBS : UAlbany at Delaware State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Dakota State at Tennessee State" tvg-name="20:30 NCAA FBS : North Dakota State at Tennessee State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-106.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Troy at Clemson" tvg-name="21:30 NCAA FBS : Troy at Clemson - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-664.php
@@ -3486,6 +3546,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Ole Miss at Kentucky" tvg-name="21:30 NCAA FBS : Ole Miss at Kentucky - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Sport Klub 3 Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-103.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Saint Francis (PA) at Buffalo" tvg-name="21:30 NCAA FBS : Saint Francis (PA) at Buffalo - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-107.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Oklahoma State at Oregon" tvg-name="21:30 NCAA FBS : Oklahoma State at Oregon - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-52.php
 
@@ -3501,8 +3564,23 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Fresno State at Oregon State" tvg-name="21:30 NCAA FBS : Fresno State at Oregon State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CW PIX 11 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-280.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Austin Peay at Georgia" tvg-name="21:30 NCAA FBS : Austin Peay at Georgia - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-108.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - UAB at Navy" tvg-name="21:30 NCAA FBS : UAB at Navy - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bryant at UMass" tvg-name="21:30 NCAA FBS : Bryant at UMass - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lindenwood at Appalachian State" tvg-name="21:30 NCAA FBS : Lindenwood at Appalachian State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bowling Green at Cincinnati" tvg-name="21:30 NCAA FBS : Bowling Green at Cincinnati - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Miami (OH) at Rutgers" tvg-name="21:30 NCAA FBS : Miami (OH) at Rutgers - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Grambling State at Ohio State" tvg-name="21:30 NCAA FBS : Grambling State at Ohio State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-397.php
@@ -3512,6 +3590,21 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 
 #EXTINF:-1 tvg-id="NCAA FBS - Delaware at Colorado" tvg-name="21:30 NCAA FBS : Delaware at Colorado - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", FOXNY USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Texas at Western Michigan" tvg-name="21:30 NCAA FBS : North Texas at Western Michigan - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - East Tennessee State at Tennessee" tvg-name="21:30 NCAA FBS : East Tennessee State at Tennessee - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Gardner-Webb at Georgia Tech" tvg-name="21:30 NCAA FBS : Gardner-Webb at Georgia Tech - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Texas State at UTSA" tvg-name="21:30 NCAA FBS : Texas State at UTSA - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - The Citadel at Samford" tvg-name="21:30 NCAA FBS : The Citadel at Samford - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-160.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - West Virginia at Ohio" tvg-name="22:00 NCAA FBS : West Virginia at Ohio - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
@@ -3525,11 +3618,140 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - South Florida at Florida" tvg-name="22:15 NCAA FBS : South Florida at Florida - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Sacramento State at Nevada" tvg-name="23:00 NCAA FBS : Sacramento State at Nevada - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Jackson State at Southern Miss" tvg-name="23:00 NCAA FBS : Jackson State at Southern Miss - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Utah Tech at Northern Arizona" tvg-name="23:00 NCAA FBS : Utah Tech at Northern Arizona - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Arkansas State at Arkansas" tvg-name="23:00 NCAA FBS : Arkansas State at Arkansas - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina Central at Old Dominion" tvg-name="00:00 NCAA FBS : North Carolina Central at Old Dominion - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Campbell at East Carolina" tvg-name="00:00 NCAA FBS : Campbell at East Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Cal Poly at Utah" tvg-name="00:00 NCAA FBS : Cal Poly at Utah - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Missouri State at Marshall" tvg-name="00:00 NCAA FBS : Missouri State at Marshall - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Texas Southern at California" tvg-name="00:00 NCAA FBS : Texas Southern at California - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Florida A&M at FAU" tvg-name="00:00 NCAA FBS : Florida A&M at FAU - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - AIC at Central Connecticut State" tvg-name="00:00 NCAA FBS : AIC at Central Connecticut State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Warner at Stetson" tvg-name="00:00 NCAA FBS : Warner at Stetson - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Davidson at Elon" tvg-name="00:00 NCAA FBS : Davidson at Elon - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Rhode Island at Stony Brook" tvg-name="00:00 NCAA FBS : Rhode Island at Stony Brook - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-189.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Elizabeth City State at Hampton" tvg-name="00:00 NCAA FBS : Elizabeth City State at Hampton - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Monumental Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-778.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Holy Cross at New Hampshire" tvg-name="00:00 NCAA FBS : Holy Cross at New Hampshire - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Monmouth at Fordham" tvg-name="00:00 NCAA FBS : Monmouth at Fordham - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Richmond at Wofford" tvg-name="00:00 NCAA FBS : Richmond at Wofford - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Houston Christian at Eastern Kentucky" tvg-name="00:00 NCAA FBS : Houston Christian at Eastern Kentucky - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Colgate at Villanova" tvg-name="00:00 NCAA FBS : Colgate at Villanova - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Maine at William & Mary" tvg-name="00:00 NCAA FBS : Maine at William & Mary - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Saint Anselm at Merrimack" tvg-name="00:00 NCAA FBS : Saint Anselm at Merrimack - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Virginia State at Norfolk State" tvg-name="00:00 NCAA FBS : Virginia State at Norfolk State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-197.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Tulane at South Alabama" tvg-name="01:00 NCAA FBS : Tulane at South Alabama - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bethune-Cookman at Miami (FL)" tvg-name="01:00 NCAA FBS : Bethune-Cookman at Miami (FL) - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-199.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Western Kentucky at Toledo" tvg-name="01:00 NCAA FBS : Western Kentucky at Toledo - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-200.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina at Charlotte" tvg-name="01:00 NCAA FBS : North Carolina at Charlotte - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-201.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Memphis at Georgia State" tvg-name="01:00 NCAA FBS : Memphis at Georgia State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-202.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Army at Kansas State" tvg-name="01:00 NCAA FBS : Army at Kansas State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Houston at Rice" tvg-name="01:00 NCAA FBS : Houston at Rice - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-203.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Carolina State at South Carolina" tvg-name="01:00 NCAA FBS : South Carolina State at South Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-204.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina A&T at UCF" tvg-name="01:00 NCAA FBS : North Carolina A&T at UCF - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-205.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - LIU at Eastern Michigan" tvg-name="01:00 NCAA FBS : LIU at Eastern Michigan - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - West Georgia at Nicholls" tvg-name="01:00 NCAA FBS : West Georgia at Nicholls - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-207.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Portland State at North Dakota" tvg-name="01:00 NCAA FBS : Portland State at North Dakota - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-209.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Alcorn State at Alabama A&M" tvg-name="01:00 NCAA FBS : Alcorn State at Alabama A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-210.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Mississippi Valley State at Tarleton State" tvg-name="01:00 NCAA FBS : Mississippi Valley State at Tarleton State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Morehead State at Illinois State" tvg-name="01:00 NCAA FBS : Morehead State at Illinois State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-211.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Alabama at Southeast Missouri State" tvg-name="01:00 NCAA FBS : North Alabama at Southeast Missouri State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-212.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Arkansas-Pine Bluff at Central Arkansas" tvg-name="01:00 NCAA FBS : Arkansas-Pine Bluff at Central Arkansas - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-213.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Dakota at Lamar" tvg-name="01:00 NCAA FBS : South Dakota at Lamar - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Alabama State at Southern" tvg-name="01:00 NCAA FBS : Alabama State at Southern - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-215.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southeastern Louisiana at Murray State" tvg-name="01:00 NCAA FBS : Southeastern Louisiana at Murray State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-216.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Towson at Morgan State" tvg-name="01:00 NCAA FBS : Towson at Morgan State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-217.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UTRGV at Prairie View A&M" tvg-name="01:00 NCAA FBS : UTRGV at Prairie View A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-218.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Northern Colorado at Colorado State" tvg-name="01:00 NCAA FBS : Northern Colorado at Colorado State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Altitude Sports
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-923.php
@@ -3558,6 +3780,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Michigan at Oklahoma" tvg-name="01:30 NCAA FBS : Michigan at Oklahoma - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN3 Brazil
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-83.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Charleston Southern at Coastal Carolina" tvg-name="01:30 NCAA FBS : Charleston Southern at Coastal Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-319.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Ball State at Auburn" tvg-name="01:30 NCAA FBS : Ball State at Auburn - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-316.php
 
@@ -3570,11 +3795,38 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.cli
 #EXTINF:-1 tvg-id="NCAA FBS - Georgia Southern at Southern California" tvg-name="01:30 NCAA FBS : Georgia Southern at Southern California - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1 USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-39.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Louisiana Tech at LSU" tvg-name="01:30 NCAA FBS : Louisiana Tech at LSU - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-220.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Louisiana-Monroe at Alabama" tvg-name="01:45 NCAA FBS : Louisiana-Monroe at Alabama - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network USA
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - McNeese at Lousiana-Lafayette" tvg-name="02:00 NCAA FBS : McNeese at Lousiana-Lafayette - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-221.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - UCLA at UNLV" tvg-name="02:00 NCAA FBS : UCLA at UNLV - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Dakota State at Montana State" tvg-name="02:00 NCAA FBS : South Dakota State at Montana State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-222.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Stephen F. Austin at Abilene Christian" tvg-name="02:00 NCAA FBS : Stephen F. Austin at Abilene Christian - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-223.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Central Washington at Montana" tvg-name="02:00 NCAA FBS : Central Washington at Montana - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-224.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UT Martin at UTEP" tvg-name="03:00 NCAA FBS : UT Martin at UTEP - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-225.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Tulsa at New Mexico State" tvg-name="03:00 NCAA FBS : Tulsa at New Mexico State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-226.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southern Utah at San Diego" tvg-name="03:00 NCAA FBS : Southern Utah at San Diego - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-227.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Weber State at Arizona" tvg-name="04:00 NCAA FBS : Weber State at Arizona - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-228.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - San Diego State at Washington State" tvg-name="04:15 NCAA FBS : San Diego State at Washington State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", The CW
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://thedaddy.click/stream/stream-300.php
