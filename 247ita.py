@@ -24,7 +24,11 @@ ORIGIN = "forcedtoplay.xyz"
 HEADER = f"&h_user-agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&h_referer=https%3A%2F%2F{REFERER}%2F&h_origin=https%3A%2F%2F{ORIGIN}"
 # File e URL statici
 daddyLiveChannelsFileName = '247channels.html'
-daddyLiveChannelsURL = 'https://thedaddy.click/24-7-channels.php'
+daddyLiveChannelsURL = 'https://dlhd.dad/24-7-channels.php'
+LOCAL_247_HTML = '247.html'  # generato da dlhd_scraper.py
+CHANNEL_KEYWORD = os.getenv('CHANNEL_KEYWORD', 'italy').lower().strip()
+REMOTE_247_HTML_URL = os.getenv('REMOTE_247_HTML_URL', 'https://raw.githubusercontent.com/qwertyuiop8899/logo/refs/heads/main/247.html')
+MAX_247_HTML_AGE_SEC = int(os.getenv('MAX_247_HTML_AGE_SEC', '1800'))  # 30 minuti default
 
 # Headers per le richieste
 headers = {
@@ -176,7 +180,7 @@ def get_stream_link(dlhd_id, max_retries=3):
     print(f"Getting stream link for channel ID: {dlhd_id}...")
     
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://thedaddy.click/stream/stream-{dlhd_id}.php"
+    return f"https://dlhd.dad/watch.php?id={dlhd_id}"
 
 def fetch_with_debug(filename, url):
     try:
@@ -193,6 +197,49 @@ def fetch_with_debug(filename, url):
 
 def search_category(channel_name):
     return STATIC_CATEGORIES.get(channel_name.lower().strip(), "Undefined")
+
+def parse_247_html(html_path: str):
+    """Parsa file 247.html (già scaricato via Playwright) ed estrae lista di tuple (id, name).
+    Struttura attesa degli anchor:
+    <a class="card" href="/watch.php?id=878" data-title="eurosport 1 italy" data-first="E">
+    Usa data-title come nome, altrimenti testo anchor.
+    """
+    if not os.path.exists(html_path):
+        print(f"[247HTML] File {html_path} non trovato, skip parser dedicato.")
+        return []
+    try:
+        with open(html_path, 'r', encoding='utf-8') as f:
+            soup = BeautifulSoup(f.read(), 'html.parser')
+        anchors = soup.find_all('a', class_='card', href=True)
+        results = []
+        seen = set()
+        for a in anchors:
+            href = a.get('href','')
+            if 'watch.php?id=' not in href:
+                continue
+            # estrai id
+            try:
+                q = href.split('id=')[-1]
+                channel_id = q.split('&')[0].strip()
+            except Exception:
+                continue
+            if not channel_id.isdigit():
+                continue
+            name = a.get('data-title') or a.text.strip() or f"CH-{channel_id}"
+            name = name.replace('\n',' ').strip()
+            # Filtro keyword (solo canali che contengono ad es. 'italy')
+            if CHANNEL_KEYWORD and CHANNEL_KEYWORD not in name.lower():
+                continue
+            key = (channel_id, name)
+            if key in seen:
+                continue
+            seen.add(key)
+            results.append((channel_id, name))
+        print(f"[247HTML] Parsed {len(results)} channels da {html_path}")
+        return results
+    except Exception as e:
+        print(f"[247HTML] Errore parsing {html_path}: {e}")
+        return []
 
 def search_streams(file_path, keyword):
     matches = []
@@ -213,6 +260,36 @@ def search_streams(file_path, keyword):
     except FileNotFoundError:
         print(f'The file {file_path} does not exist.')
     return matches
+
+def ensure_remote_247_html():
+    """Scarica 247.html remoto se non esiste o è troppo vecchio.
+    Usa REMOTE_247_HTML_URL. Ritorna True se pronto ad essere parsato."""
+    need_download = False
+    if not os.path.exists(LOCAL_247_HTML):
+        print(f"[247REMOTE] {LOCAL_247_HTML} non esiste, download richiesto")
+        need_download = True
+    else:
+        age = time.time() - os.path.getmtime(LOCAL_247_HTML)
+        if age > MAX_247_HTML_AGE_SEC:
+            print(f"[247REMOTE] {LOCAL_247_HTML} vecchio ({int(age)}s), riscarico")
+            need_download = True
+    if not need_download:
+        return True
+    try:
+        print(f"[247REMOTE] Scarico {REMOTE_247_HTML_URL} ...")
+        resp = requests.get(REMOTE_247_HTML_URL, timeout=15)
+        resp.raise_for_status()
+        content = resp.text
+        if len(content) < 200:
+            print('[247REMOTE] Contenuto troppo corto, abort download')
+            return False
+        with open(LOCAL_247_HTML, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"[247REMOTE] Salvato {LOCAL_247_HTML} ({len(content)} bytes)")
+        return True
+    except Exception as e:
+        print(f"[247REMOTE] Errore download remoto: {e}")
+        return os.path.exists(LOCAL_247_HTML)
 
 def search_logo(channel_name):
     channel_name_lower = channel_name.lower().strip()
@@ -243,7 +320,12 @@ def generate_m3u8_247(matches):
     with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
         for channel in matches:
             channel_id = channel[0]
-            channel_name = channel[1].replace("Italy", "").replace("8", "").replace("(251)", "").replace("(252)", "").replace("(253)", "").replace("(254)", "").replace("(255)", "").replace("(256)", "").replace("(257)", "").replace("HD+", "")
+            raw_name = channel[1]
+            # pulizia tokens
+            channel_name = raw_name
+            for token in ["Italy", "ITALY", CHANNEL_KEYWORD, "8", "(251)", "(252)", "(253)", "(254)", "(255)", "(256)", "(257)", "HD+"]:
+                channel_name = channel_name.replace(token, '')
+            channel_name = ' '.join(channel_name.split())
             tvicon_path = search_logo(channel_name)
             tvg_id = search_tvg_id(channel_name)
             category = search_category(channel_name)
@@ -289,8 +371,17 @@ if os.path.exists(M3U8_OUTPUT_FILE):
     os.remove(M3U8_OUTPUT_FILE)
 
 # Fetch e generazione M3U8 per i canali 24/7
-fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
-matches_247 = search_streams(daddyLiveChannelsFileName, "Italy")
+# 1) Assicura disponibilità 247.html (prima remoto, poi eventuale Playwright preesistente)
+matches_247 = []
+if ensure_remote_247_html():
+    parsed_remote = parse_247_html(LOCAL_247_HTML)
+    if parsed_remote:
+        matches_247 = parsed_remote
+
+if not matches_247:
+    print('[247] Fallback a fetch legacy...')
+    fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
+    matches_247 = search_streams(daddyLiveChannelsFileName, "Italy")
 total_247_channels = generate_m3u8_247(matches_247)
 
 # Aggiungi il canale DAZN 1
