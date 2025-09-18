@@ -707,7 +707,7 @@ def get_stream_link(dlhd_id, event_name="", channel_name="", max_retries=3):
     #    return "https://daddylive.dad/embed/stream-576.php"
 
     # Restituisci direttamente l'URL senza fare richieste HTTP
-    return f"https://thedaddy.click/stream/stream-{dlhd_id}.php"
+    return f"https://https://dlhd.dad/watch.php?id={dlhd_id}"
 
 
 def clean_group_title(sport_key):
