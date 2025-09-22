@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=277
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=261
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=263
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=264
 
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="09:37 Big Brother Naija 2025 - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="17:30 Big Brother Naija 2025 - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=230
 
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Shelbourne" tvg-name="20:45 Ireland Republic - Premier Division : Drogheda United vs Shelbourne - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
@@ -157,6 +157,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Botev Vratsa vs CSKA Sofia" tvg-name="19:30 Bulgaria - Parva Liga : Botev Vratsa vs CSKA Sofia - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub HD Croatia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="FIFA Ballon d'Or Ceremony - FIFA Ballon d'Or Ceremony" tvg-name="20:00 FIFA Ballon d'Or Ceremony - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=910
 
 #EXTINF:-1 tvg-id="FIFA Ballon d'Or Ceremony - FIFA Ballon d'Or Ceremony" tvg-name="20:00 FIFA Ballon d'Or Ceremony - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=427
