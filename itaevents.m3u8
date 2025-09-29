@@ -1,21 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:18 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="04:29 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=277
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:18 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="04:29 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=261
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:18 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="04:29 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=262
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:18 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="04:29 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=263
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:18 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="04:29 Big Brother 27 USA 2025 Live Cam Feeds - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=264
 
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="09:18 Big Brother Naija 2025 - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="04:29 Big Brother Naija 2025 - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=230
+
+#EXTINF:-1 tvg-id="Championship Night Riverhead - Championship Night Riverhead" tvg-name="22:45 Championship Night Riverhead - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=155
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing at Path Valley Speedway - 2025 Kubota High Limit Racing at Path Valley Speedway" tvg-name="00:00 2025 Kubota High Limit Racing at Path Valley Speedway - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=151
+
+#EXTINF:-1 tvg-id="2025 Road to the Dome at Coles County Speedway - 2025 Road to the Dome at Coles County Speedway" tvg-name="00:00 2025 Road to the Dome at Coles County Speedway - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=160
 
 #EXTINF:-1 tvg-id="Slovakia 2. Liga - FC Petrzalka vs. Slavia Tu Kosice - Slovakia 2. Liga - FC Petrzalka vs. Slavia Tu Kosice" tvg-name="10:30 Slovakia 2. Liga - FC Petrzalka vs. Slavia Tu Kosice - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", RTVS Sport Slovakia
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
@@ -2938,4 +2947,1021 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="Grand Slam of Curling Masters, Men's Final - Grand Slam of Curling Masters, Men's Final" tvg-name="17:00 Grand Slam of Curling Masters, Men's Final - 28/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Winter Sports", Sportsnet West
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="04:29 Big Brother Naija 2025 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=230
+
+#EXTINF:-1 tvg-id="Myanmar National League - Yadanarbon vs Rakhine United" tvg-name="13:30 Myanmar National League : Yadanarbon vs Rakhine United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MRTV 4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Keçiörengücü vs Pendikspor" tvg-name="13:30 Turkey - 1. Lig : Keçiörengücü vs Pendikspor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Keçiörengücü vs Pendikspor" tvg-name="13:30 Turkey - 1. Lig : Keçiörengücü vs Pendikspor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=63
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SPORT1+ DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=640
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=925
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Nasaf vs Al Hilal" tvg-name="15:45 Asia - AFC Champions League Elite : Nasaf vs Al Hilal - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Van BB vs Amed SK" tvg-name="16:00 Turkey - 1. Lig : Van BB vs Amed SK - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Van BB vs Amed SK" tvg-name="16:00 Turkey - 1. Lig : Van BB vs Amed SK - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=63
+
+#EXTINF:-1 tvg-id="Russia - FNL - Ural vs SKA Khabarovsk" tvg-name="16:00 Russia - FNL : Ural vs SKA Khabarovsk - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Russia - FNL - Ural vs SKA Khabarovsk" tvg-name="16:00 Russia - FNL : Ural vs SKA Khabarovsk - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="Egypt - Premier League - Ismaily vs National Bank of Egypt" tvg-name="16:00 Egypt - Premier League : Ismaily vs National Bank of Egypt - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Time Sports 2 Egypt
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="Egypt - Premier League - El Gounah vs Ceramica Cleopatra" tvg-name="16:00 Egypt - Premier League : El Gounah vs Ceramica Cleopatra - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Time Sports Egypt
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 tvg-id="Bulgaria Second Professional League - FK Hebar Pazardzhik vs. FC Dunav 2010" tvg-name="16:30 Bulgaria Second Professional League : FK Hebar Pazardzhik vs. FC Dunav 2010 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 1 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Algeria - Ligue 1 Algérie - ES Mostaganem vs ES Sétif" tvg-name="17:00 Algeria - Ligue 1 Algérie : ES Mostaganem vs ES Sétif - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV 6 Algeria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="Algeria - Ligue 1 Algérie - USM Alger vs El Bayadh" tvg-name="17:00 Algeria - Ligue 1 Algérie : USM Alger vs El Bayadh - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Algeria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="Czech Republic - 2. liga - Příbram vs Táborsko" tvg-name="17:00 Czech Republic - 2. liga : Příbram vs Táborsko - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ČT Sport CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1033
+
+#EXTINF:-1 tvg-id="Greece - Super League - Atromitos vs Larissa" tvg-name="17:00 Greece - Super League : Atromitos vs Larissa - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Prime Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=638
+
+#EXTINF:-1 tvg-id="Greece - Super League - Atromitos vs Larissa" tvg-name="17:00 Greece - Super League : Atromitos vs Larissa - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="Latvia - Virsliga - BFC Daugavpils vs Riga" tvg-name="17:00 Latvia - Virsliga : BFC Daugavpils vs Riga - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Latvia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Botoşani" tvg-name="17:00 Romania - Liga I : Metaloglobus vs Botoşani - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Botoşani" tvg-name="17:00 Romania - Liga I : Metaloglobus vs Botoşani - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Metaloglobus vs Botoşani" tvg-name="17:00 Romania - Liga I : Metaloglobus vs Botoşani - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="Israel - Liga Leumit - Bnei Yehuda vs Hapoel Hadera" tvg-name="18:00 Israel - Liga Leumit : Bnei Yehuda vs Hapoel Hadera - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Plus Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="Israel - Liga Leumit - Maccabi Herzliya vs Hapoel Rishon LeZion" tvg-name="18:00 Israel - Liga Leumit : Maccabi Herzliya vs Hapoel Rishon LeZion - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 5 Stars Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="Israel - Liga Leumit - Hapoel Nazareth Illit vs Hapoel Kfar Saba" tvg-name="18:00 Israel - Liga Leumit : Hapoel Nazareth Illit vs Hapoel Kfar Saba - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Live Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=146
+
+#EXTINF:-1 tvg-id="Denmark - Kvindeligaen - Nordsjælland Kvinder vs Køge Kvinder" tvg-name="18:00 Denmark - Kvindeligaen : Nordsjælland Kvinder vs Køge Kvinder - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=810
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Gharafa vs Al Shorta" tvg-name="18:00 Asia - AFC Champions League Elite : Al Gharafa vs Al Shorta - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Gharafa vs Al Shorta" tvg-name="18:00 Asia - AFC Champions League Elite : Al Gharafa vs Al Shorta - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Gharafa vs Al Shorta" tvg-name="18:00 Asia - AFC Champions League Elite : Al Gharafa vs Al Shorta - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Gharafa vs Al Shorta" tvg-name="18:00 Asia - AFC Champions League Elite : Al Gharafa vs Al Shorta - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Tractor Sazi vs Al Wahda" tvg-name="18:00 Asia - AFC Champions League Elite : Tractor Sazi vs Al Wahda - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=467
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Tractor Sazi vs Al Wahda" tvg-name="18:00 Asia - AFC Champions League Elite : Tractor Sazi vs Al Wahda - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Tractor Sazi vs Al Wahda" tvg-name="18:00 Asia - AFC Champions League Elite : Tractor Sazi vs Al Wahda - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Zagłębie Lubin vs Arka Gdynia" tvg-name="18:00 Poland - Ekstraklasa : Zagłębie Lubin vs Arka Gdynia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Zagłębie Lubin vs Arka Gdynia" tvg-name="18:00 Poland - Ekstraklasa : Zagłębie Lubin vs Arka Gdynia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 5 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Zagłębie Lubin vs Arka Gdynia" tvg-name="18:00 Poland - Ekstraklasa : Zagłębie Lubin vs Arka Gdynia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Zagłębie Lubin vs Arka Gdynia" tvg-name="18:00 Poland - Ekstraklasa : Zagłębie Lubin vs Arka Gdynia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=580
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Zona IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=877
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=910
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=71
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 1 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=136
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=401
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FOX Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=643
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 1 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=622
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=493
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=747
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Parma vs Torino" tvg-name="18:30 Italy - Serie A : Parma vs Torino - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Frauen DFB Pokal - Borussia Dortmund vs Bayern München" tvg-name="18:30 Frauen DFB Pokal : Borussia Dortmund vs Bayern München - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="Frauen DFB Pokal - Borussia Dortmund vs Bayern München" tvg-name="18:30 Frauen DFB Pokal : Borussia Dortmund vs Bayern München - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Mix DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=557
+
+#EXTINF:-1 tvg-id="Frauen DFB Pokal - Borussia Dortmund vs Bayern München" tvg-name="18:30 Frauen DFB Pokal : Borussia Dortmund vs Bayern München - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="Russia - FNL - Neftekhimik vs Arsenal Tula" tvg-name="18:30 Russia - FNL : Neftekhimik vs Arsenal Tula - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match Premier Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=573
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Sakaryaspor vs Sivasspor" tvg-name="19:00 Turkey - 1. Lig : Sakaryaspor vs Sivasspor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TRT Spor Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=889
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Sakaryaspor vs Sivasspor" tvg-name="19:00 Turkey - 1. Lig : Sakaryaspor vs Sivasspor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=63
+
+#EXTINF:-1 tvg-id="Turkey - 1. Lig - Adana Demirspor vs Sarıyer" tvg-name="19:00 Turkey - 1. Lig : Adana Demirspor vs Sarıyer - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Tabii Spor 6 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="Egypt - Premier League - Al Ahly vs Zamalek" tvg-name="19:00 Egypt - Premier League : Al Ahly vs Zamalek - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ON Time Sports Egypt
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=21
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=62
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=425
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS en Español
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=372
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV3 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=454
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 3 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=138
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 7 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=497
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="Super Lig - Beşiktaş vs Kocaelispor" tvg-name="19:00 Super Lig : Beşiktaş vs Kocaelispor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Midtjylland vs Randers" tvg-name="19:00 Denmark - Super Liga : Midtjylland vs Randers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport X Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=808
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Midtjylland vs Randers" tvg-name="19:00 Denmark - Super Liga : Midtjylland vs Randers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 5 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="Denmark - Super Liga - Midtjylland vs Randers" tvg-name="19:00 Denmark - Super Liga : Midtjylland vs Randers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=103
+
+#EXTINF:-1 tvg-id="Norway - OBOS-ligaen - Odd vs Aalesund" tvg-name="19:00 Norway - OBOS-ligaen : Odd vs Aalesund - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Norway
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="Poland - I Liga - Wisła Kraków vs Polonia Bytom" tvg-name="19:00 Poland - I Liga : Wisła Kraków vs Polonia Bytom - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="Portugal - Segunda liga - Paços de Ferreira vs Porto II" tvg-name="19:00 Portugal - Segunda liga : Paços de Ferreira vs Porto II - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV6 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=291
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - GIF Sundsvall vs Umeå" tvg-name="19:00 Sweden - Superettan : GIF Sundsvall vs Umeå - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Discovery+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Helsingborg vs Trelleborg FF" tvg-name="19:00 Sweden - Superettan : Helsingborg vs Trelleborg FF - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Discovery+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Utsikten vs Brage" tvg-name="19:00 Sweden - Superettan : Utsikten vs Brage - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Discovery+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Djurgården vs Sirius" tvg-name="19:00 Sweden - Allsvenskan : Djurgården vs Sirius - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Discovery+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="Sweden - Allsvenskan - Öster vs IFK Göteborg" tvg-name="19:10 Sweden - Allsvenskan : Öster vs IFK Göteborg - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Discovery+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=12
+
+#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Beroe vs Dobrudzha 1919" tvg-name="19:15 Bulgaria - Parva Liga : Beroe vs Dobrudzha 1919 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=465
+
+#EXTINF:-1 tvg-id="Israel - Ligat Ha'Al - Maccabi Haifa vs Hapoel Be'er Sheva" tvg-name="19:30 Israel - Ligat Ha'Al : Maccabi Haifa vs Hapoel Be'er Sheva - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="Hungary - NB II - Honvéd vs Karcag SE" tvg-name="20:00 Hungary - NB II : Honvéd vs Karcag SE - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", M4 Sports Hungary
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=265
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - UTC Cajamarca vs Los Chankas" tvg-name="20:00 Peru - Primera Division : UTC Cajamarca vs Los Chankas - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - RKC Waalwijk vs Ajax II" tvg-name="20:00 Netherlands - Eerste Divisie : RKC Waalwijk vs Ajax II - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=13
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - Roda JC vs Cambuur" tvg-name="20:00 Netherlands - Eerste Divisie : Roda JC vs Cambuur - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - ADO Den Haag vs Oss" tvg-name="20:00 Netherlands - Eerste Divisie : ADO Den Haag vs Oss - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=888
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - De Graafschap vs Almere City" tvg-name="20:00 Netherlands - Eerste Divisie : De Graafschap vs Almere City - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Universitatea Cluj vs CFR Cluj" tvg-name="20:00 Romania - Liga I : Universitatea Cluj vs CFR Cluj - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=400
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Universitatea Cluj vs CFR Cluj" tvg-name="20:00 Romania - Liga I : Universitatea Cluj vs CFR Cluj - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 1 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=583
+
+#EXTINF:-1 tvg-id="Romania - Liga I - Universitatea Cluj vs CFR Cluj" tvg-name="20:00 Romania - Liga I : Universitatea Cluj vs CFR Cluj - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=580
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Duhail vs Al-Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Duhail vs Al-Ahli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=468
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Duhail vs Al-Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Duhail vs Al-Ahli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=91
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Duhail vs Al-Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Duhail vs Al-Ahli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Leganés vs CD Castellon" tvg-name="20:30 Spain - Segunda Division : Leganés vs CD Castellon - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LALIGA TV Hypermotion
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=539
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Leganés vs CD Castellon" tvg-name="20:30 Spain - Segunda Division : Leganés vs CD Castellon - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 3 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1023
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Leganés vs CD Castellon" tvg-name="20:30 Spain - Segunda Division : Leganés vs CD Castellon - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Start Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=637
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Leganés vs CD Castellon" tvg-name="20:30 Spain - Segunda Division : Leganés vs CD Castellon - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=473
+
+#EXTINF:-1 tvg-id="Spain - Segunda Division - Leganés vs CD Castellon" tvg-name="20:30 Spain - Segunda Division : Leganés vs CD Castellon - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=714
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Barracas Central vs Belgrano" tvg-name="20:30 Argentina - Primera División : Barracas Central vs Belgrano - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=388
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Ospitaletto vs Alcione" tvg-name="20:30 Italy - Serie C : Ospitaletto vs Alcione - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 256 Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=14
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Cittadella vs Pro Patria" tvg-name="20:30 Italy - Serie C : Cittadella vs Pro Patria - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 254 Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=15
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Pro Vercelli" tvg-name="20:30 Italy - Serie C : Vicenza vs Pro Vercelli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 253 Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=16
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Vicenza vs Pro Vercelli" tvg-name="20:30 Italy - Serie C : Vicenza vs Pro Vercelli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Arena Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=462
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Foggia" tvg-name="20:30 Italy - Serie C : Picerno vs Foggia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 252 Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=17
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Picerno vs Foggia" tvg-name="20:30 Italy - Serie C : Picerno vs Foggia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Rai Sport Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=882
+
+#EXTINF:-1 tvg-id="Italy - Serie C - Giugliano vs Sorrento" tvg-name="20:30 Italy - Serie C : Giugliano vs Sorrento - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 255 Italia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=18
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Motor Lublin vs Radomiak Radom" tvg-name="20:30 Poland - Ekstraklasa : Motor Lublin vs Radomiak Radom - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=259
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Motor Lublin vs Radomiak Radom" tvg-name="20:30 Poland - Ekstraklasa : Motor Lublin vs Radomiak Radom - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 5 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=75
+
+#EXTINF:-1 tvg-id="Poland - Ekstraklasa - Motor Lublin vs Radomiak Radom" tvg-name="20:30 Poland - Ekstraklasa : Motor Lublin vs Radomiak Radom - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=429
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Boulogne vs Red Star" tvg-name="20:45 France - Ligue 2 : Boulogne vs Red Star - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="France - Ligue 2 - Boulogne vs Red Star" tvg-name="20:45 France - Ligue 2 : Boulogne vs Red Star - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=94
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TNT Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=31
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 251 IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=19
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Calcio IT
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=870
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=910
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=427
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=74
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 1 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=71
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 1 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=136
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=401
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 2 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=584
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=124
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 3 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=139
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=493
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV2 Sport Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=810
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=623
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=433
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 3 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=474
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Fotball
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=747
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Football
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=56
+
+#EXTINF:-1 tvg-id="Italy - Serie A - Genoa vs Lazio" tvg-name="20:45 Italy - Serie A : Genoa vs Lazio - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 2 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=141
+
+#EXTINF:-1 tvg-id="Uruguay - Primera Division - Racing vs Progreso" tvg-name="21:00 Uruguay - Primera Division : Racing vs Progreso - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", VTV+ Uruguay
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=391
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Hub Premier
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", USA Network
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=343
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NBC UNIVERSO USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=845
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Main Event UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports Premier League UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=130
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport 8 NZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=595
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 Spain
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=445
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 3 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=64
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Premier League DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sport Top Event DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=556
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport 3 Afrique
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=488
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Foot France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=463
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Premier League
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=125
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Astro Grandstand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=123
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 1 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=134
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports Premier League Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=599
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", See Denmark
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=811
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=457
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=432
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", V Sport Premium
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=20
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Diema Sport 2 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=466
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=81
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN2 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Premier League
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=414
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport MaXimo 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=572
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Supersport Grandstand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=412
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="England - Premier League - Everton vs West Ham United" tvg-name="21:00 England - Premier League : Everton vs West Ham United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 1 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=140
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport TV1 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=49
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportdigital FUSSBALL DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=571
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", GOLTV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=597
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Eleven Sports 2 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=72
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 4 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ring bg
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=471
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub 1 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=101
+
+#EXTINF:-1 tvg-id="Portugal - Primeira Liga - Arouca vs Porto" tvg-name="21:00 Portugal - Primeira Liga : Arouca vs Porto - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport 3 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=142
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN LaLiga
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=538
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LaLiga TV UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=276
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Viaplay Sports 1 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=451
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premier Sports 1 Ireland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=771
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sport 4 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1024
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN1 DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=426
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Canal+ Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=48
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN Eleven 2 Portugal
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=456
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Ziggo Sport 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=398
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Digi Sport 4 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=403
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Prima Sport 3 Romania
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=585
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 2 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=137
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MAX 4 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=494
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports 1 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN SPORTS Australia 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=492
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=712
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena 2 Premium Serbia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=135
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Nova Sports 1 Greece
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=631
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Arena Sport 3 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=434
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MAX Sport 4 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=475
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TV4 Sport Live 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=703
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN3 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=798
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=415
+
+#EXTINF:-1 tvg-id="Spain - La Liga - Valencia vs Real Oviedo" tvg-name="21:00 Spain - La Liga : Valencia vs Real Oviedo - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=93
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Magenta Sport 318
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=22
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", L'Equipe France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=645
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 3 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=138
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - France U20 vs South Africa U20" tvg-name="22:00 FIFA U-20 World Cup : France U20 vs South Africa U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 6
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=96
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Norway U20 vs Nigeria U20" tvg-name="22:00 FIFA U-20 World Cup : Norway U20 vs Nigeria U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=756
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Norway U20 vs Nigeria U20" tvg-name="22:00 FIFA U-20 World Cup : Norway U20 vs Nigeria U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Norway U20 vs Nigeria U20" tvg-name="22:00 FIFA U-20 World Cup : Norway U20 vs Nigeria U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NRK 3 Norway
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=23
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Norway U20 vs Nigeria U20" tvg-name="22:00 FIFA U-20 World Cup : Norway U20 vs Nigeria U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=95
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Sporting Cristal vs Ayacucho" tvg-name="22:15 Peru - Primera Division : Sporting Cristal vs Ayacucho - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Liga 1 Max Peru
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="United States - NCAA Men's Soccer - Ohio St. vs UCLA" tvg-name="00:00 United States - NCAA Men's Soccer : Ohio St. vs UCLA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BTN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 tvg-id="Brazil Brasileirão Betano - Red Bull Bragantino vs Santos" tvg-name="00:00 Brazil Brasileirão Betano : Red Bull Bragantino vs Santos - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportv Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=78
+
+#EXTINF:-1 tvg-id="Brazil Brasileirão Betano - Red Bull Bragantino vs Santos" tvg-name="00:00 Brazil Brasileirão Betano : Red Bull Bragantino vs Santos - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Premiere BR
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=88
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 1 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=39
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", NBC UNIVERSO USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=845
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN5
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=115
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TVP Sport Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=128
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=92
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - United States U20 vs New Caledonia U20" tvg-name="01:00 FIFA U-20 World Cup : United States U20 vs New Caledonia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=61
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Sports 2 USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=758
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Caracol TV Colombia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", TSN2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=112
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 1 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=136
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Match TV Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=127
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports MENA English 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=90
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Colombia U20 vs Saudi Arabia U20" tvg-name="01:00 FIFA U-20 World Cup : Colombia U20 vs Saudi Arabia U20 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", beIN Sports HD Qatar
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=578
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Vélez Sarsfield vs Atlético Tucumán" tvg-name="01:00 Argentina - Primera División : Vélez Sarsfield vs Atlético Tucumán - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=149
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Vélez Sarsfield vs Atlético Tucumán" tvg-name="01:00 Argentina - Primera División : Vélez Sarsfield vs Atlético Tucumán - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Premium Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=387
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - São Paulo vs Ceará" tvg-name="01:00 Brazil - Brasileirão : São Paulo vs Ceará - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MATCH! Futbol 3 Russia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=138
+
+#EXTINF:-1 tvg-id="United States - NCAA Men's Soccer - Northwestern vs Washington" tvg-name="01:30 United States - NCAA Men's Soccer : Northwestern vs Washington - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", BTN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=397
+
+#EXTINF:-1 tvg-id="Costa Rica - Primera Division - Pérez Zeledón vs Municipal Liberia" tvg-name="04:00 Costa Rica - Primera Division : Pérez Zeledón vs Municipal Liberia - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", FUTV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=2
+
+#EXTINF:-1 tvg-id="Athletic - Modern Pentathlon World Cup Final Premiere" tvg-name="16:00 Athletic : Modern Pentathlon World Cup Final Premiere - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Athletic", NLSE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=24
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs Marozsan F." tvg-name="08:30 ATP - BEIJING : Sinner J. vs Marozsan F. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs Marozsan F." tvg-name="08:30 ATP - BEIJING : Sinner J. vs Marozsan F. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Tien L. vs Musetti L." tvg-name="13:00 ATP - BEIJING : Tien L. vs Musetti L. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Medvedev D. vs Zverev A." tvg-name="14:30 ATP - BEIJING : Medvedev D. vs Zverev A. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Brooksby J. vs Fritz T." tvg-name="09:00 ATP - TOKYO : Brooksby J. vs Fritz T. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Tokyo", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Ruud C." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Ruud C. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Tokyo", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Ruud C." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Ruud C. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Tokyo", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Andreeva M. vs Bouzas Maneiro J." tvg-name="05:00 WTA - BEIJING : Andreeva M. vs Bouzas Maneiro J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Andreeva M. vs Bouzas Maneiro J." tvg-name="05:00 WTA - BEIJING : Andreeva M. vs Bouzas Maneiro J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Sasnovich A. vs Kostyuk M." tvg-name="06:30 WTA - BEIJING : Sasnovich A. vs Kostyuk M. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Boisson L. vs Navarro E." tvg-name="07:00 WTA - BEIJING : Boisson L. vs Navarro E. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Boisson L. vs Navarro E." tvg-name="07:00 WTA - BEIJING : Boisson L. vs Navarro E. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Joint M. vs Kartal S." tvg-name="07:00 WTA - BEIJING : Joint M. vs Kartal S. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Swiatek I. vs Osorio C." tvg-name="08:30 WTA - BEIJING : Swiatek I. vs Osorio C. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Swiatek I. vs Osorio C." tvg-name="08:30 WTA - BEIJING : Swiatek I. vs Osorio C. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Sonmez Z. vs Potapova A." tvg-name="09:30 WTA - BEIJING : Sonmez Z. vs Potapova A. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1503
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Raducanu E. vs Pegula J." tvg-name="10:00 WTA - BEIJING : Raducanu E. vs Pegula J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1515
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Raducanu E. vs Pegula J." tvg-name="10:00 WTA - BEIJING : Raducanu E. vs Pegula J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Raducanu E. vs Pegula J." tvg-name="10:00 WTA - BEIJING : Raducanu E. vs Pegula J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Noskova L. vs Zheng Q." tvg-name="13:00 WTA - BEIJING : Noskova L. vs Zheng Q. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Noskova L. vs Zheng Q." tvg-name="13:00 WTA - BEIJING : Noskova L. vs Zheng Q. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Beijing", Tennis Stream
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=117
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=884
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=576
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=701
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=612
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=102
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 Malaysia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=713
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=393
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=472
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=919
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=396
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 5 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=383
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=453
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Raw)", Netflix PPV
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=3
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Raw)", SuperSport Variety 4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=419
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Raw)", SuperSport Grandstand
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=412
+
+#EXTINF:-1 tvg-id="WWE Monday Night RAW - WWE Monday Night RAW" tvg-name="02:00 WWE Monday Night RAW - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Raw)", Supersports Action
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=420
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Sunday Ticket
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=4
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=44
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", MY9TV USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=654
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Main Event UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports NFL UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN3
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=113
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN1
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=111
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Nova SPORT 1 CZ
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1021
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", beIN Sports 1 France
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=116
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 2 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=386
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 2 Mexico
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=926
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN Deportes
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=375
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 2 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=150
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN2 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=82
+
+#EXTINF:-1 tvg-id="NFL - Miami Dolphins vs New York Jets" tvg-name="01:15 NFL : Miami Dolphins vs New York Jets - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sport 5 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=144
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", NFL Sunday Ticket
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ABC USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=51
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ABC NY USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=766
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", TSN4
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=114
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", SKy Sports+
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=36
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports Main Event UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=38
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", Sky Sports NFL UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=37
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", RDS CA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=839
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 1 NL
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=379
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN 3 Argentina
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=798
+
+#EXTINF:-1 tvg-id="NFL - Denver Broncos vs Cincinnati Bengals" tvg-name="02:15 NFL : Denver Broncos vs Cincinnati Bengals - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Nfl)", ESPN4 Brazil
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=85
+
+#EXTINF:-1 tvg-id="Israel League Cup - Maccabi Urban Ramat Gan vs Maccabi Raanana" tvg-name="16:35 Israel League Cup : Maccabi Urban Ramat Gan vs Maccabi Raanana - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Gold Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=148
+
+#EXTINF:-1 tvg-id="Süper Ligi - Merkezefendi Belediyesi Denizli Basket vs. Bursaspor" tvg-name="18:00 Süper Ligi : Merkezefendi Belediyesi Denizli Basket vs. Bursaspor - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", beIN SPORTS 5 Turkey
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=1010
+
+#EXTINF:-1 tvg-id="European North Basketball League - Dziki Warszawa vs. Rigas Zelli" tvg-name="18:55 European North Basketball League : Dziki Warszawa vs. Rigas Zelli - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="Israeli Women Basketball Premier League - Maccabi Ramat Gan / Hen vs Hapoel Rishon Letzion" tvg-name="20:00 Israeli Women Basketball Premier League : Maccabi Ramat Gan / Hen vs Hapoel Rishon Letzion - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=145
+
+#EXTINF:-1 tvg-id="Basketball Winner's Cup - Ranking Sport" tvg-name="20:00 Basketball Winner's Cup: Ranking Sport - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", 5 Stars Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=147
+
+#EXTINF:-1 tvg-id="Europe UEFA Futsal Euro U19 - Turkey U19 vs Slovenia U19" tvg-name="12:00 Europe UEFA Futsal Euro U19 : Turkey U19 vs Slovenia U19 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="Europe UEFA Futsal Euro U19 - Czech Republic U19 vs Spain U19" tvg-name="14:30 Europe UEFA Futsal Euro U19 : Czech Republic U19 vs Spain U19 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="Europe UEFA Futsal Euro U19 - Italy U19 vs Moldova U19" tvg-name="17:00 Europe UEFA Futsal Euro U19 : Italy U19 vs Moldova U19 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="Europe UEFA Futsal Euro U19 - Ukraine U19 vs Portugal U19" tvg-name="19:30 Europe UEFA Futsal Euro U19 : Ukraine U19 vs Portugal U19 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Sport 4 Israel
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=143
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Florida Panthers" tvg-name="00:00 NHL : Carolina Hurricanes vs Florida Panthers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=6
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Florida Panthers" tvg-name="00:00 NHL : Carolina Hurricanes vs Florida Panthers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Viaplay Sports 2 UK
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=550
+
+#EXTINF:-1 tvg-id="NHL - Carolina Hurricanes vs Florida Panthers" tvg-name="00:00 NHL : Carolina Hurricanes vs Florida Panthers - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TVA Sports
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=833
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs New York Islanders" tvg-name="01:00 NHL : New York Rangers vs New York Islanders - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=7
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs New York Islanders" tvg-name="01:00 NHL : New York Rangers vs New York Islanders - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="NHL - New York Rangers vs New York Islanders" tvg-name="01:00 NHL : New York Rangers vs New York Islanders - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", MSG USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=765
+
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs Boston Bruins" tvg-name="01:00 NHL : Philadelphia Flyers vs Boston Bruins - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=8
+
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs Boston Bruins" tvg-name="01:00 NHL : Philadelphia Flyers vs Boston Bruins - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NESN USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=762
+
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs Boston Bruins" tvg-name="01:00 NHL : Philadelphia Flyers vs Boston Bruins - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet West
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=407
+
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs Boston Bruins" tvg-name="01:00 NHL : Philadelphia Flyers vs Boston Bruins - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet Ontario
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=406
+
+#EXTINF:-1 tvg-id="NHL - Philadelphia Flyers vs Boston Bruins" tvg-name="01:00 NHL : Philadelphia Flyers vs Boston Bruins - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet East
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=408
+
+#EXTINF:-1 tvg-id="NHL - Pittsburgh Penguins vs Detroit Red Wings" tvg-name="01:00 NHL : Pittsburgh Penguins vs Detroit Red Wings - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=9
+
+#EXTINF:-1 tvg-id="NHL - Pittsburgh Penguins vs Detroit Red Wings" tvg-name="01:00 NHL : Pittsburgh Penguins vs Detroit Red Wings - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="NHL - Pittsburgh Penguins vs Detroit Red Wings" tvg-name="01:00 NHL : Pittsburgh Penguins vs Detroit Red Wings - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Detroit
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=891
+
+#EXTINF:-1 tvg-id="NHL - Calgary Flames vs Seattle Kraken" tvg-name="04:00 NHL : Calgary Flames vs Seattle Kraken - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=10
+
+#EXTINF:-1 tvg-id="NHL - Calgary Flames vs Seattle Kraken" tvg-name="04:00 NHL : Calgary Flames vs Seattle Kraken - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Network USA
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=663
+
+#EXTINF:-1 tvg-id="NHL - San Jose Sharks vs Anaheim Ducks" tvg-name="04:00 NHL : San Jose Sharks vs Anaheim Ducks - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=11
+
+#EXTINF:-1 tvg-id="NHL - San Jose Sharks vs Anaheim Ducks" tvg-name="04:00 NHL : San Jose Sharks vs Anaheim Ducks - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Sportsnet One
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=411
+
+#EXTINF:-1 tvg-id="World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match - World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match" tvg-name="20:00 World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match - World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match" tvg-name="20:00 World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro men's 3rd place match - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
+
+#EXTINF:-1 tvg-id="World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match" tvg-name="23:00 World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Polsat Sport 3 Poland
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=129
+
+#EXTINF:-1 tvg-id="World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match" tvg-name="23:00 World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 4 Croatia
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=104
 
