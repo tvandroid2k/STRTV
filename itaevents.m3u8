@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="00:02 Big Brother Naija 2025 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="02:07 Big Brother Naija 2025 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=230
 
 #EXTINF:-1 tvg-id="Myanmar National League - Yadanarbon vs Rakhine United" tvg-name="13:30 Myanmar National League : Yadanarbon vs Rakhine United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MRTV 4
@@ -1910,6 +1910,60 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="World - Friendly - Korea Republic vs Paraguay" tvg-name="03:50 World - Friendly : Korea Republic vs Paraguay - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 2
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=90
 
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs De Minaur A." tvg-name="08:00 ATP - BEIJING : Sinner J. vs De Minaur A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs De Minaur A." tvg-name="08:00 ATP - BEIJING : Sinner J. vs De Minaur A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Tien L. vs Medvedev D." tvg-name="11:00 ATP - BEIJING : Tien L. vs Medvedev D. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1508
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Tien L. vs Medvedev D." tvg-name="11:00 ATP - BEIJING : Tien L. vs Medvedev D. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1519
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Fritz T." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Fritz T. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Τοkyo", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1507
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Fritz T." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Fritz T. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Τοkyo", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1502
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1519
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1501
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1524
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=1501
+
 #EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=40
 
@@ -2105,7 +2159,7 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 313
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=162
 
-#EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", STV1 Slovenia
+#EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT1 Slovenia
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=188
 
 #EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Max Sport 2 Bulgaria
@@ -2114,7 +2168,7 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 314
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=163
 
-#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", STV3 Slovenia
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT3 Slovenia
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=189
 
 #EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 1 Pland
@@ -2123,7 +2177,7 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 315
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=164
 
-#EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", STV2 Slovenia
+#EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT2 Slovenia
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=190
 
 #EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 1 Israel
@@ -2147,7 +2201,7 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 316
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=166
 
-#EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", STV1 Slovenia
+#EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT1 Slovenia
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=188
 
 #EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 5 Greece
