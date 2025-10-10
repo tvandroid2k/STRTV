@@ -261,6 +261,9 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -302,9 +305,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/super-tennis-it.png" group-title="Sport",SUPER TENNIS (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/300937751365646200d097&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="super!.it" tvg-name="Super!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/1024px-Super%21_logo_2021.svg.png" group-title="Bambini",SUPER! (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2900362153b8a056cb86c0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="tgcom24.it" tvg-name="Tg Com 24" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kVh4SupZFtHrALXp9dRWD9aahJOUfl8rhSF8VroefSLg=s900-c-k-c0x00ffffff-no-rj" group-title="Notizie;Mediaset",TG COM 24 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1785098768e3514b1dbecc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1335,13 +1335,16 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="13:50 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=205
 
-#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="13:50 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV 2
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5000
+
+#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="17:57 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=206
 
-#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="13:50 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="17:57 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=207
 
 #EXTINF:-1 tvg-id="2025 No Mercy 16 - 2025 No Mercy 16" tvg-name="16:00 2025 No Mercy 16 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
@@ -2216,12 +2219,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd
 
 #EXTINF:-1 tvg-id="URIJAH FABER'S A-1 COMBAT 31 - URIJAH FABER'S A-1 COMBAT 31" tvg-name="04:00 URIJAH FABER'S A-1 COMBAT 31 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma (Fight)", UFC Fight Pass
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=86
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=163
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=5000
 
 #EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", USA Network
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://https://dlhd.dad/watch.php?id=343
