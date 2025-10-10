@@ -156,6 +156,9 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -164,6 +167,9 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -255,11 +261,11 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 #EXTINF:-1 tvg-id="skysport24.it" tvg-name="Sky Sport 24 [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Sport",SKY SPORT 24 [LIVE DURING EVENTS ONLY] (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
-https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1329,13 +1335,16 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="13:50 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=205
 
-#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="13:50 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV 2
+https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=5000
+
+#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="17:57 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=206
 
-#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="13:50 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="17:57 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=207
 
 #EXTINF:-1 tvg-id="2025 No Mercy 16 - 2025 No Mercy 16" tvg-name="16:00 2025 No Mercy 16 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
@@ -2210,12 +2219,6 @@ https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_p
 
 #EXTINF:-1 tvg-id="URIJAH FABER'S A-1 COMBAT 31 - URIJAH FABER'S A-1 COMBAT 31" tvg-name="04:00 URIJAH FABER'S A-1 COMBAT 31 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma (Fight)", UFC Fight Pass
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=86
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=163
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=5000
 
 #EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", USA Network
 https://mediaflow_proxy.stremio-davide.duckdns.org/proxy/hls/manifest.m3u8?api_password=Bravo16v&d=https://https://dlhd.dad/watch.php?id=343
