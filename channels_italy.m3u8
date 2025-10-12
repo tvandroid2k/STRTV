@@ -27,9 +27,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cielo-it.png" group-title="Sky",CIELO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3743894403dc7e6005c138&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine 34 Mediaset" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cine34-it.png" group-title="Intrattenimento;Mediaset",CINE 34 MEDIASET (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -129,9 +126,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -152,9 +146,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raisüdtirol.it" tvg-name="Rai Südtirol" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SÜDTIROL (V)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -216,11 +207,17 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vav
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemaromance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-romance-it.png" group-title="Film;Sky",SKY CINEMA ROMANCE (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/128126488561be9a87267f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemasuspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-suspense-it.png" group-title="Film;Sky",SKY CINEMA SUSPENSE (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
